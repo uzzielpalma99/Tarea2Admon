@@ -1,0 +1,4 @@
+printf("Dale a tu cuerpo alegria macarena");
+int i;
+for(i=0;i<6;i++)
+  printf("Ehhh macarena");
